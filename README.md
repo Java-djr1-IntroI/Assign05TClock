@@ -27,8 +27,8 @@ format. A nice table showing both formats can be found at
 <a href="https://www.ontheclock.com/convert-military-24-hour-time.aspx">
 Standard vs Military Time</a>
 
-Here is exactly what your program is to output (asterisks and all), and
-user input is in **bold**. The clock has run for 4 seconds.
+Here is exactly how your program is to interact with the
+user input in **bold**. The clock has run for 4 seconds.
 
 <pre>
 Set Clock To S)tandard Time M)ilitary Time: <b>S 00:00:00 am</b>
@@ -44,7 +44,7 @@ Standard Time Clock
 string is incorrect, throw a ParseException with an appropriate
 string indicating the error in the string. For example, if the
 user enters <b>S 30:00:00 PM</b>, you are to throw an error like
-<b>Standard Time Out Of Range</b>. This through all of the possible
+<b>Standard Time Out Of Range</b>. Think through all of the possible
 errors and provide exceptions for each kind of error.
 
 **Deliverables**
@@ -60,7 +60,7 @@ inheritance.
 
 1.  **An electronic Solution of your program on GitHub**
 
-    a.  You are to click on the Assign03 Link to accept this
+    a.  You are to click on the Assign04 Link to accept this
         assignment. Once accepted, code up a
         complete solution to the above assignment specification. Your
         complete solution is to be pushed to GitHub no later than the
@@ -73,7 +73,7 @@ inheritance.
 
     c.  Make sure that your program compiles and runs correctly with no
         errors and no warnings. If you get any errors, double check that
-        you typed everything correctly. Be aware that C++ is
+        you typed everything correctly. Be aware that Java is
         case-sensitive.
 
-2.  **An electronic copy of your program (punetidAssign03Protein.pdf) is to be emailed to ryandj@pacificu.edu**
+2.  **An electronic copy of your program (punetidAssign04TheClock.pdf) is to be emailed to ryandj@pacificu.edu**
