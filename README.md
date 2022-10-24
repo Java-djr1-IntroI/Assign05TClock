@@ -20,8 +20,8 @@
 
 **The Problem**
 
-Time can be displayed in standard time using a 12-hour am-pm clock
-or in military time using a 24-hour military clock. You are to
+Time can be displayed in standard time using a <b>12-hour am-pm clock</b>
+or in military time using a <b>24-hour military clock</b>. You are to
 implement a clock that is capably of displaying time using either
 format. A nice table showing both formats can be found at
 <a href="https://www.ontheclock.com/convert-military-24-hour-time.aspx">
