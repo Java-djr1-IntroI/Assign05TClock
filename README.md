@@ -38,6 +38,15 @@ Standard Time Clock
 
 </pre>
 
+**Error Handling**
+
+1. Make sure the input string can be correctly parsed. If the input
+string is incorrect, throw a ParseException with an appropriate
+string indicating the error in the string. For example, if the
+user enters <b>S 30:00:00 PM</b>, you are to throw an error like
+<b>Standard Time Out Of Range</b>. This through all of the possible
+errors and provide exceptions for each kind of error.
+
 **Deliverables**
 
 1. Using UMLet, you are to design the necessary classes that handle any 
